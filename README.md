@@ -1,22 +1,20 @@
-# Tommy Stell
-**Mathematics PhD Student @ Georgia State University**
+# Tommy Stell (He/Him/His)
 
-I focus on the intersection of rigorous mathematical modeling and high-performance computation. My research and computational work span from analyzing the nonlinear dynamics of neurobiology to developing sophisticated reinforcement learning architectures for complex, high-dimensional environments.
+I am a current Ph.D. student in Mathematics with a concentration in Machine Learning and Data Science at Georgia State University in Atlanta, Georgia, USA, working under Yaroslav Molkov and Russell Jeter.
 
-### Research & Current Work
-* **Computational Neuroscience:** Simulating and analyzing the bistable behavior of spinal motoneurons. This involves optimizing RK4 integrations in C++ for models like `mc_soma_ais` and performing detailed bifurcation analysis.
-* **Reinforcement Learning for Locomotion:** Training and tuning policies for bipedal and quadrupedal robot locomotion models, transitioning computational frameworks between Python (PyTorch) and Julia.
-* **Multi-Agent Reinforcement Learning (MARL):** Architecting MARL systems to solve highly complex, non-standard environments, such as K-player N-dimensional quantum chess.
-* **Physics Education:** Evaluating and grading laboratory assessments for the University of Texas at Austin's OnRamps physics program.
+### Research Interests
 
-### Technical Stack
-* **Languages:** Python (Primary Output), Julia, C++
-* **Mathematics & Modeling:** $\LaTeX$, PyTorch, NumPy, SciPy, Matplotlib
-* **Core Competencies:** Stochastic processes, numerical analysis, dynamical systems, and algorithm optimization.
+* Machine Learning and Data Analysis
+* Mathematical modeling of neuronal control of locomotion
+* Bistability in Motorneurons
+* Multi-Agent Reinforcement Learning
 
-### The Objective Function
-When I am not deriving optimal policies or computing state-value functions via:
+### Bio
 
-$$V^\pi(s) = \mathbb{E}_\pi \left[ \sum_{k=0}^\infty \gamma^k r_{t+k+1} \mid S_t = s \right]$$
+Outside of academic work, I enjoy baking, cooking, board games, and trying new restaurants, all with my lovely wife.
 
-You can usually find me building complex LEGO sets, logging films on Letterboxd, or running campaigns in strategy and RPG titles like *Civilization VI* or *Baldur's Gate 3*.
+### Connect & Affiliations
+
+* **Email:** [tstell1@student.gsu.edu](mailto:tstell1@student.gsu.edu)
+* **LinkedIn:** [tommy-stell](http://www.linkedin.com/in/tommy-stell)
+* **Research Groups:** [Molkov Group](https://math.gsu.edu/ymolkov/) | [Jeter Group](https://sites.gsu.edu/rjeter/jeter-lab/)
