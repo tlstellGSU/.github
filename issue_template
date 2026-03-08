@@ -1,0 +1,20 @@
+---
+name: Research Pathway
+about: Map out a new research direction, theoretical exploration, or computational experiment.
+title: '[RESEARCH] <Short description of the pathway>'
+labels: 'research, pathway'
+assignees: ''
+---
+
+## 1. The What (Objective)
+*Define the specific research objective, model, or concept to be explored.*
+
+* **Primary Goal:** * **Scope:** 
+
+## 2. Deliverables (Expected Outputs)
+*Identify the tangible artifacts that will result from completing this pathway.*
+
+* [ ] **Code:** (e.g., modular functions, optimized loops)
+* [ ] **Documentation:** (e.g., LaTeX derivations, updated READMEs)
+* [ ] **Analysis:** (e.g., performance plots, data visualizations)
+
